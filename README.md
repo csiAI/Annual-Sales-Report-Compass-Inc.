@@ -13,6 +13,7 @@ The Dataset can be found here:
 
 
 Objective:
+
 Conduct a comprehensive analysis of Compass, Inc. sales performance for the years 2022 and 2023. The goal is to gain actionable insights into business trends, identify areas of strength and weakness, and provide recommendations for strategic decision-making.
 
 ![image](https://github.com/csiAI/Annual-Sales-Report-Compass-Inc./assets/113176347/fe36bea8-df05-4ccc-858b-5aa8c9c0a873)
