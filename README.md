@@ -64,11 +64,9 @@ Key Insights and Recommendations:
       • Shifting Product Focus:
           -	Capitalize on the growing success of Phones and Binders.
           -	Investigate the decline in Tables' performance, based on the results, it might be advisable to discontinue them from our catalogue.
-        
       • Seasonal Strategies: Both years show stronger performance towards year-end. Develop strategies to:
           - Maximize peak season sales.
           -	Boost performance in slower periods, particularly early in the year.
-
       • Category Management:
           - Continue supporting top performers (Phones, Chairs, Binders).
           - Address underperforming categories, especially those showing losses (Tables, Machines, bookcases and supplies in 2023).
