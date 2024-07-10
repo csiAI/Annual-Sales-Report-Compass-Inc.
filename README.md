@@ -29,7 +29,7 @@ Overall Performance:
 Monthly Trends:
 
       •	Both years show similar patterns with stronger performance towards year-end.
-      • 2023 shows more consistent growth throughout the year compared to 2022.
+      •     2023 shows more consistent growth throughout the year compared to 2022.
   
 Sales & Profit by Subcategory:
 
