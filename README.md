@@ -6,8 +6,7 @@ The Dashboard can be found here:
     https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc_/SalesDashboard 
 
 The Dataset can be found here:   
-    [Customers.csv](https://github.com/user-attachments/files/16158677/Customers.csv)                          
-    [Location.csv](https://github.com/user-attachments/files/16158678/Location.csv)
+    [Customers.csv](https://github.com/user-attachments/files/16158677/Customers.csv)                           [Location.csv](https://github.com/user-attachments/files/16158678/Location.csv)
     [Products.csv](https://github.com/user-attachments/files/16158682/Products.csv)
     [Orders.csv](https://github.com/user-attachments/files/16158680/Orders.csv)
 
