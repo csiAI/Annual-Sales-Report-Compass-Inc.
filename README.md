@@ -22,36 +22,44 @@ Conduct a comprehensive analysis of Compass, Inc. sales performance for the year
 Comparative Analysis Report: 2022 vs 2023
 
 Overall Performance:
+
       •	The company maintained growth in all key metrics from 2022 to 2023.
       •	Growth rate for sales and profit slowed in 2023 compared to 2022, but quantity growth accelerated.
       •	Profit margin decreased slightly in 2023 (12.7% vs 13.5% in 2022).
   
 Monthly Trends:
+
       •	Both years show similar patterns with stronger performance towards year-end.
       • 2023 shows more consistent growth throughout the year compared to 2022.
   
 Sales & Profit by Subcategory:
 
     2022 top performers:
+    
       1.	Chairs
       2.	Phones
       3.	Tables
     2023 top performers:
+    
       1.	Phones
       2.	Chairs
       3.	Binders
+      
     Key Changes:
+    
       •	Phones overtook Chairs as the top sales category in 2023.
       •	Tables dropped from 3rd to 6th place, replaced by Binders.
       •	Tables have been generating losses both in 2022 and 2023.
       •	Envelopes and Fasteners are the worst sellers in 2023 and sales have reduced compared to 2022.
 
 Sales & Profit Trends over Time:
+
       •	Average sales increased from $12K in 2022 to $14K in 2023.
       •	Average profit remained relatively stable ($2K in both years).
       •	2023 shows more frequent above-average sales periods compared to 2022.
 
 Key Insights and Recommendations:
+
       • Sustained Growth: The company has maintained strong growth over two consecutive years, indicating a solid market position and effective strategies.
       • Shifting Product Focus:
           -	Capitalize on the growing success of Phones and Binders.
