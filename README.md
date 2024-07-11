@@ -3,7 +3,10 @@ Annual-Sales-Report-Compass-Inc.
 Interactive Dashboard containing Annual Sales Report.
 
 The Dashboard can be found here: 
-    https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc_/SalesDashboard 
+    [https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc_/SalesDashboard](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard) 
+
+The Project File can be found here:
+[Uploading Annual_Sales Report  Compass Inc..twb…]()
 
 The Dataset can be found here:   
     [Customers.csv](https://github.com/user-attachments/files/16158677/Customers.csv)                           [Location.csv](https://github.com/user-attachments/files/16158678/Location.csv)
