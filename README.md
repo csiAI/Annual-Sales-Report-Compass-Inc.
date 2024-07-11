@@ -5,21 +5,20 @@ Interactive Dashboard containing Annual Sales Report.
 The Dashboard can be found here: 
     [https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc_/SalesDashboard](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard) 
 
-The Project File can be found here:
-[Uploading Annual_Sales Report  Compass Inc..twb…]()
 
 The Dataset can be found here:   
     [Customers.csv](https://github.com/user-attachments/files/16158677/Customers.csv)                           [Location.csv](https://github.com/user-attachments/files/16158678/Location.csv)
     [Products.csv](https://github.com/user-attachments/files/16158682/Products.csv)
     [Orders.csv](https://github.com/user-attachments/files/16158680/Orders.csv)
 
+The Tableau project file can be obtained upon request.
 
 Objective:
 
 Conduct a comprehensive analysis of Compass, Inc. sales performance for the years 2022 and 2023. The goal is to gain actionable insights into business trends, identify areas of strength and weakness, and provide recommendations for strategic decision-making.
 
-![image](https://github.com/csiAI/Annual-Sales-Report-Compass-Inc./assets/113176347/fe36bea8-df05-4ccc-858b-5aa8c9c0a873)
-![image](https://github.com/csiAI/Annual-Sales-Report-Compass-Inc./assets/113176347/30d2ce45-85e3-49c5-baf0-124131d8e224)
+![image](https://github.com/csiAI/Annual-Sales-Report-Compass-Inc./assets/113176347/2fbeb167-76b6-4875-ae20-19c58fd83c91)
+
 
 Comparative Analysis Report: 2022 vs 2023
 
