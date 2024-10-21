@@ -10,27 +10,7 @@ The aim of this project is to thoroughly analyze and synthesize this data in ord
 - Efficiency Metrics: Examination of the company's overall operational efficiency and productivity.
 
 An interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard).
-The Tableau file utilized to inspect and perform quality checks can be found [here]( 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Annual-Sales-Report-Compass-Inc.
-
-Interactive Dashboard containing Annual Sales Report.
-
-The Dashboard can be found here: 
-    [https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc_/SalesDashboard](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard) 
 
 
 The Dataset can be found here:   
@@ -38,11 +18,17 @@ The Dataset can be found here:
     [Products.csv](https://github.com/user-attachments/files/16158682/Products.csv)
     [Orders.csv](https://github.com/user-attachments/files/16158680/Orders.csv)
 
-The Tableau project file can be obtained upon request.
+The Tableau project file can be obtained upon request to inspect and perform quality checks.
 
-Objective:
 
-Conduct a comprehensive analysis of Compass, Inc. sales performance for the years 2022 and 2023. The goal is to gain actionable insights into business trends, identify areas of strength and weakness, and provide recommendations for strategic decision-making.
+DATA STRUCTURE & INITIAL CHECKS
+
+
+
+
+
+
+
 
 ![image](https://github.com/csiAI/Annual-Sales-Report-Compass-Inc./assets/113176347/2fbeb167-76b6-4875-ae20-19c58fd83c91)
 
