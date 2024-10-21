@@ -4,10 +4,10 @@ Compass Inc., established in 2020, is a global e-commerce company that sells a v
 
 The aim of this project is to thoroughly analyze and synthesize this data in order to uncover critical insights that will improve Compass's commercial success. The key areas of focus include:
 
-    * Sales Trends Analysis: Evaluation of historical sales patterns, focusing on sales and profit performance over time.
-    * Product Level Performance: An analysis of Compass's various product lines and subcategories, understanding their individual impacts on overall sales and profitability.
-    * Seasonal Trends: Identification and analysis of any seasonal fluctuations or patterns in the sales and profit data.
-    * Efficiency Metrics: Examination of the company's overall operational efficiency and productivity.
+     Sales Trends Analysis: Evaluation of historical sales patterns, focusing on sales and profit performance over time.
+     Product Level Performance: An analysis of Compass's various product lines and subcategories, understanding their individual impacts on overall sales and profitability.
+     Seasonal Trends: Identification and analysis of any seasonal fluctuations or patterns in the sales and profit data.
+     Efficiency Metrics: Examination of the company's overall operational efficiency and productivity.
 
 
 
