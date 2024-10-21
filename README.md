@@ -21,12 +21,21 @@ The Dataset can be found here:
 The Tableau project file can be obtained upon request to inspect and perform quality checks.
 
 
+
+
 DATA STRUCTURE & INITIAL CHECKS
 
+Compass's database structure as seen below consists of for tables: orders, products, location and customers, with a total row count of 10,000 records.
 
 
+![image](https://github.com/user-attachments/assets/7c43282a-db60-4611-b3bf-92841ab738b2)
 
 
+EXECUTIVE SUMMARY
+
+Overview of Findings
+
+- The company maintained growth in all key metrics from 2022 to 2023. Growth rate for sales and profit slowed in 2023 compared to 2022, but quantity growth accelerated. Profit margin decreased slightly in 2023 (12.7% vs 13.5% in 2022).
 
 
 
@@ -37,9 +46,6 @@ Comparative Analysis Report: 2022 vs 2023
 
 Overall Performance:
 
-      •	The company maintained growth in all key metrics from 2022 to 2023.
-      •	Growth rate for sales and profit slowed in 2023 compared to 2022, but quantity growth accelerated.
-      •	Profit margin decreased slightly in 2023 (12.7% vs 13.5% in 2022).
   
 Monthly Trends:
 
