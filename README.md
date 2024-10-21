@@ -9,7 +9,7 @@ The aim of this project is to thoroughly analyze and synthesize this data in ord
 - Seasonal Trends: Identification and analysis of any seasonal fluctuations or patterns in the sales and profit data.
 - Efficiency Metrics: Examination of the company's overall operational efficiency and productivity.
 
-An interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard)
+An interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard).
 
 
 
