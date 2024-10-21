@@ -96,4 +96,4 @@ Key Insights and Recommendations:
 
 Conclusion:
 
-This comparative analysis shows a company with strong growth momentum but facing challenges in maintaining profit growth proportional to sales growth. Strategic focus on pricing and operational efficiency will be key to sustaining and improving performance in the coming year.
+- This comparative analysis shows a company with strong growth momentum but facing challenges in maintaining profit growth proportional to sales growth. Strategic focus on pricing and operational efficiency will be key to sustaining and improving performance in the coming year.
