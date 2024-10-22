@@ -81,20 +81,20 @@ Key Insights and Recommendations:
 - Sustained Growth: The company has maintained strong growth over two consecutive years, indicating a solid market position and effective strategies.
       
 - Shifting Product Focus:
-          -	Capitalize on the growing success of Phones and Binders.
-          -	Investigate the decline in Tables' performance, based on the results, it might be advisable to discontinue them from the catalogue.
+          	Capitalize on the growing success of Phones and Binders.
+          	Investigate the decline in Tables' performance, based on the results, it might be advisable to discontinue them from the catalogue.
           
 - Seasonal Strategies: Both years show stronger performance towards year-end. Develop strategies to:
-          - Maximize peak season sales.
-          -	Boost performance in slower periods, particularly early in the year.
+           Maximize peak season sales.
+          	Boost performance in slower periods, particularly early in the year.
           
 - Category Management:
-          - Continue supporting top performers (Phones, Chairs, Binders).
-          - Address underperforming categories, especially those showing losses (Tables, Machines, bookcases and supplies in 2023).
-          - Evaluate the potential of mid-tier categories like Copiers and Accessories, which show strong profitability.
+           Continue supporting top performers (Phones, Chairs, Binders).
+           Address underperforming categories, especially those showing losses (Tables, Machines, bookcases and supplies in 2023).
+           Evaluate the potential of mid-tier categories like Copiers and Accessories, which show strong profitability.
           
 - Operational Efficiency: 
-          - Given the slowing growth rate of profits compared to sales, focus on operational efficiency to maintain and improve profit margins.
+           Given the slowing growth rate of profits compared to sales, focus on operational efficiency to maintain and improve profit margins.
 
 Conclusion:
 
