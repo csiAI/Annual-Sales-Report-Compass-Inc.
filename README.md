@@ -1,3 +1,5 @@
+# Annual Sales Report | Compass Inc.
+
 # PROJECT BACKGROUND
 
 Compass Inc., established in 2020, is a global e-commerce company that sells a variety of office and electronic products worldwide via its website and mobile app. The company has significant amounts of data on its sales and operational efficiency that has been previously underutilized.
