@@ -1,6 +1,6 @@
 # Annual Sales Report | Compass Inc.
 
-# PROJECT BACKGROUND
+# Project Background
 
 Compass Inc., established in 2020, is a global e-commerce company that sells a variety of office and electronic products worldwide via its website and mobile app. The company has significant amounts of data on its sales and operational efficiency that has been previously underutilized.
 
@@ -25,7 +25,7 @@ The Tableau project file can be obtained upon request to inspect and perform qua
 
 
 
-# DATA STRUCTURE & INITIAL CHECKS
+# Data Structure & Initial Checks
 
 Compass's database structure as seen below consists of for tables: orders, products, location and customers, with a total row count of 10,000 records.
 
@@ -33,7 +33,7 @@ Compass's database structure as seen below consists of for tables: orders, produ
 ![image](https://github.com/user-attachments/assets/7c43282a-db60-4611-b3bf-92841ab738b2)
 
 
-# EXECUTIVE SUMMARY
+# Executive Summary
 
 Overview of Findings - 2022 vs 2023
 
