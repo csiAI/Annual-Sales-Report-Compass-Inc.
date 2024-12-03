@@ -35,7 +35,7 @@ Compass's database structure as seen below consists of for tables: orders, produ
 
 # Executive Summary
 
-Overview of Findings - 2022 vs 2023:
+**Overview of Findings - 2022 vs 2023:**
 
 - The company maintained growth in all key metrics from 2022 to 2023. Growth rate for sales and profit slowed in 2023 compared to 2022, but quantity growth accelerated. Profit margin decreased slightly in 2023 (12.7% vs 13.5% in 2022).
 - An interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard).
@@ -45,12 +45,12 @@ Overview of Findings - 2022 vs 2023:
 
 
 
-Monthly Trends:
+**Monthly Trends:**
 
 - Both years show similar patterns with stronger performance towards year-end.
 - 2023 shows more consistent growth throughout the year compared to 2022.
   
-Sales & Profit by Subcategory:
+**Sales & Profit by Subcategory:**
 
 - 2022 top performers:
     
@@ -63,20 +63,20 @@ Sales & Profit by Subcategory:
       2.	Chairs
       3.	Binders
       
-Key Changes:
+**Key Changes:**
     
 - Phones overtook Chairs as the top sales category in 2023.
 - Tables dropped from 3rd to 6th place, replaced by Binders.
 - Tables have been generating losses both in 2022 and 2023.
 - Envelopes and Fasteners are the worst sellers in 2023 and sales have reduced compared to 2022.
 
-Sales & Profit Trends over Time:
+**Sales & Profit Trends over Time:**
 
 - Average sales increased from $12K in 2022 to $14K in 2023.
 - Average profit remained relatively stable ($2K in both years).
 - 2023 shows more frequent above-average sales periods compared to 2022.
 
-Key Insights and Recommendations:
+**Key Insights and Recommendations:**
 
 - Sustained Growth: The company has maintained strong growth over two consecutive years, indicating a solid market position and effective strategies.
       
@@ -96,6 +96,6 @@ Key Insights and Recommendations:
 - Operational Efficiency: 
            Given the slowing growth rate of profits compared to sales, focus on operational efficiency to maintain and improve profit margins.
 
-Conclusion:
+**Conclusion:**
 
 - This comparative analysis shows a company with strong growth momentum but facing challenges in maintaining profit growth proportional to sales growth. Strategic focus on pricing and operational efficiency will be key to sustaining and improving performance in the coming year.
