@@ -35,7 +35,7 @@ Compass's database structure as seen below consists of for tables: orders, produ
 
 # Executive Summary
 
-Overview of Findings - 2022 vs 2023
+Overview of Findings - 2022 vs 2023:
 
 - The company maintained growth in all key metrics from 2022 to 2023. Growth rate for sales and profit slowed in 2023 compared to 2022, but quantity growth accelerated. Profit margin decreased slightly in 2023 (12.7% vs 13.5% in 2022).
 - An interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard).
