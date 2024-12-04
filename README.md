@@ -52,10 +52,9 @@ Compass's database structure as seen below consists of four tables: orders, prod
 **Sales & Profit by Subcategory:**
 
 - 2022 top performers:
-    
-      1.Chairs
-      2.Phones
-      3.Tables
+      - Chairs
+      - Phones
+      - Tables
 - 2023 top performers:
     
       1.Phones
