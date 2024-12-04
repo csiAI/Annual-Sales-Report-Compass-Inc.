@@ -26,7 +26,7 @@ The Tableau project file can be obtained upon request to inspect and perform qua
 
 # Data Structure & Initial Checks
 
-Compass's database structure as seen below consists of for tables: orders, products, location and customers, with a total row count of 10,000 records.
+Compass's database structure as seen below consists of four tables: orders, products, location and customers, with a total row count of 10,000 records.
 
 
 ![image](https://github.com/user-attachments/assets/7c43282a-db60-4611-b3bf-92841ab738b2)
