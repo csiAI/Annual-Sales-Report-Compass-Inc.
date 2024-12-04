@@ -53,14 +53,14 @@ Compass's database structure as seen below consists of four tables: orders, prod
 
 - 2022 top performers:
     
-      1.	Chairs
-      2.	Phones
-      3.	Tables
+      1.Chairs
+      2.Phones
+      3.Tables
 - 2023 top performers:
     
-      1.	Phones
-      2.	Chairs
-      3.	Binders
+      1.Phones
+      2.Chairs
+      3.Binders
       
 **Key Changes:**
     
