@@ -40,8 +40,9 @@ This project's data model consists of five tables, following a star schema: orde
 - An interactive Power BI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/Annual-Sales-Report-Compass-Inc./refs/heads/main/Annual%20Sales%20Report%20-%20Compass%20Inc.pbix).
 
 
-![Sales Dashboard](https://github.com/user-attachments/assets/40a2df61-bf43-4928-a586-a71840cdaa82)
-![Customers Dashboard](https://github.com/user-attachments/assets/98396ee8-1e7e-4d2a-a6d0-6bfb0eca935b)
+![Sales Dashboard](https://github.com/user-attachments/assets/3c197349-0e52-4ee0-9d77-5887fcef3210)
+![Customers Dashboard](https://github.com/user-attachments/assets/1ecf74d7-d30d-40c6-8b75-30cb47bffdf7)
+
 
 
 
