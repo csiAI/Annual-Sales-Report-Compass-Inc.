@@ -11,7 +11,7 @@ The aim of this project is to thoroughly analyze and synthesize this data in ord
 - Seasonal Trends: Identification and analysis of any seasonal fluctuations or patterns in the sales and profit data.
 - Efficiency Metrics: Examination of the company's overall operational efficiency and productivity.
 
-An interactive Power BI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/Annual-Sales-Report-Compass-Inc./refs/heads/main/Annual%20Sales%20Report%20-%20Compass%20Inc.pbix).
+An interactive Power BI dashboard can be found [here]https://raw.githubusercontent.com/csiAI/Annual-Sales-Report-Compass-Inc./refs/heads/main/Annual%20Sales%20Report%20-%20Compass%20Inc.pbix).
 
 
 
@@ -37,7 +37,7 @@ This project's data model consists of five tables, following a star schema: orde
 **Overview of Findings - 2022 vs 2023:**
 
 - The company maintained growth in all key metrics from 2022 to 2023. Growth rate for sales and profit slowed in 2023 compared to 2022, but quantity growth accelerated. Profit margin decreased slightly in 2023 (12.7% vs 13.5% in 2022).
-- An interactive Power BI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/Annual-Sales-Report-Compass-Inc./refs/heads/main/Annual%20Sales%20Report%20-%20Compass%20Inc.pbix).
+- An interactive Power BI dashboard can be found [here]https://raw.githubusercontent.com/csiAI/Annual-Sales-Report-Compass-Inc./refs/heads/main/Annual%20Sales%20Report%20-%20Compass%20Inc.pbix).
 
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/3c197349-0e52-4ee0-9d77-5887fcef3210)
