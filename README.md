@@ -11,7 +11,7 @@ The aim of this project is to thoroughly analyze and synthesize this data in ord
 - Seasonal Trends: Identification and analysis of any seasonal fluctuations or patterns in the sales and profit data.
 - Efficiency Metrics: Examination of the company's overall operational efficiency and productivity.
 
-An interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard).
+An interactive Power BI dashboard can be found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard).
 
 
 
@@ -19,7 +19,6 @@ The Dataset can be found here: [Customers.csv](https://github.com/user-attachmen
     [Products.csv](https://github.com/user-attachments/files/16158682/Products.csv)
     [Orders.csv](https://github.com/user-attachments/files/16158680/Orders.csv)
 
-The Tableau project file can be obtained upon request to inspect and perform quality checks.
 
 
 
@@ -29,7 +28,8 @@ The Tableau project file can be obtained upon request to inspect and perform qua
 Compass's database structure as seen below consists of four tables: orders, products, location and customers, with a total row count of 10,000 records.
 
 
-![image](https://github.com/user-attachments/assets/7c43282a-db60-4611-b3bf-92841ab738b2)
+![image](https://github.com/user-attachments/assets/fc10844c-56e4-4ae2-aa28-22e055cf9bfc)
+
 
 
 # Executive Summary
@@ -37,10 +37,13 @@ Compass's database structure as seen below consists of four tables: orders, prod
 **Overview of Findings - 2022 vs 2023:**
 
 - The company maintained growth in all key metrics from 2022 to 2023. Growth rate for sales and profit slowed in 2023 compared to 2022, but quantity growth accelerated. Profit margin decreased slightly in 2023 (12.7% vs 13.5% in 2022).
-- An interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard).
+- An interactive Power BI dashboard can be found [here](https://public.tableau.com/app/profile/carlos.s.nchez4177/viz/AnnualSalesReportCompassInc__17206926998690/SalesDashboard).
 
 
-![image](https://github.com/csiAI/Annual-Sales-Report-Compass-Inc./assets/113176347/2fbeb167-76b6-4875-ae20-19c58fd83c91)
+![Sales Dashboard](https://github.com/user-attachments/assets/d275f61f-f581-4285-88a7-642387935838)
+![Customers Dashboard](https://github.com/user-attachments/assets/1c6006cb-0bae-4d72-b882-f7d0f242c9ef)
+
+
 
 
 
