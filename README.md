@@ -25,7 +25,7 @@ The Dataset can be found here: [Customers.csv](https://github.com/user-attachmen
 
 # Data Structure & Initial Checks
 
-Compass's database structure as seen below consists of four tables: orders, products, location and customers, with a total row count of 10,000 records.
+This project's data model consists of five tables, following a star schema: orders, products, date, customers and location, with a total row count of 10,000 records in the fact table.
 
 
 ![image](https://github.com/user-attachments/assets/fc10844c-56e4-4ae2-aa28-22e055cf9bfc)
