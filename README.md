@@ -27,8 +27,9 @@ The Dataset can be found here: [Customers.csv](https://github.com/user-attachmen
 
 This project's data model consists of five tables, following a star schema: orders, products, date, customers and location, with a total row count of 10,000 records in the fact table.
 
+![data model](https://github.com/user-attachments/assets/4c9c4300-68a6-47b4-8901-6248aa81c5b4)
 
-![image](https://github.com/user-attachments/assets/fc10844c-56e4-4ae2-aa28-22e055cf9bfc)
+
 
 
 
@@ -40,8 +41,9 @@ This project's data model consists of five tables, following a star schema: orde
 - An interactive Power BI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/Annual-Sales-Report-Compass-Inc./refs/heads/main/Annual%20Sales%20Report%20-%20Compass%20Inc.pbix).
 
 
-![Sales Dashboard](https://github.com/user-attachments/assets/3c197349-0e52-4ee0-9d77-5887fcef3210)
-![Customers Dashboard](https://github.com/user-attachments/assets/1ecf74d7-d30d-40c6-8b75-30cb47bffdf7)
+![Sales Dashboard](https://github.com/user-attachments/assets/a813fac7-b843-4a77-b0c5-fd19af9a8449)
+![Customers Dashboard](https://github.com/user-attachments/assets/4a331611-9509-41ed-a27a-2b1519df1967)
+
 
 
 
