@@ -42,9 +42,11 @@ This project's data model consists of five tables, following a **star schema**: 
 - The company maintained growth in all key metrics from 2022 to 2023. Growth rate for sales and profit slowed in 2023 compared to 2022, but quantity growth accelerated. Profit margin decreased slightly in 2023 (12.7% vs 13.5% in 2022).
 - An interactive Power BI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/Annual-Sales-Report-Compass-Inc./refs/heads/main/Annual%20Sales%20Report%20-%20Compass%20Inc.pbix).
 
+![Sales Dashboard](https://github.com/user-attachments/assets/081e68b1-0c9f-4e06-91f1-7e1b2de17572)
+![Customers Dashboard](https://github.com/user-attachments/assets/c30b603b-906c-4b33-9c9a-96a1d8635246)
 
-![Sales Dashboard](https://github.com/user-attachments/assets/c032254c-89fd-41cf-97c2-fc611ceb2085)
-![Customers Dashboard](https://github.com/user-attachments/assets/be909ec8-8fbf-4940-8f2d-177bd284d837)
+
+
 
 
 
