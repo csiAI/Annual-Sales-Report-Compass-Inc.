@@ -25,9 +25,10 @@ The Dataset can be found here: [Customers.csv](https://github.com/user-attachmen
 
 # Data Structure & Initial Checks
 
-This project's data model consists of five tables, following a star schema: orders, products, date, customers and location, with a total row count of 10,000 records in the fact table.
+This project's data model consists of five tables, following a **star schema**: orders, products, date, customers and location, with a total row count of 10,000 records in the fact table.
 
-![data model](https://github.com/user-attachments/assets/4c9c4300-68a6-47b4-8901-6248aa81c5b4)
+![data model](https://github.com/user-attachments/assets/391f8a39-29f9-4ac4-83ec-f96a8799b417)
+
 
 
 
